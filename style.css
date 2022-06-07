@@ -1,0 +1,32 @@
+table { 
+ width: 600; 
+ margin: 0 auto; 
+ border-collapse: collapse; 
+ border: 2px solid black;
+ line-height: 25px;} 
+td 
+{ 
+ border-collapse: collapse; 
+ border: 2px solid black; 
+ text-align: center; 
+} 
+th 
+{ 
+ border-collapse: collapse;
+ background-color: rgb(26, 177, 89); 
+ border: 2px solid black;  
+} 
+.head 
+{ 
+ background-color: white; 
+} 
+.day 
+{ 
+ font-size: smaller; 
+ text-orientation: upright;
+ writing-mode: vertical-lr;
+} 
+.exception 
+{ 
+ background-color: lightgray; 
+}
